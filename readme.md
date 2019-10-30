@@ -109,3 +109,12 @@ data for user "admin"
 ```
 data for admin "admin"
 ```
+
+# Demo with DockerCompose
+
+```
+docker-compose up -d
+
+docker-compose run demo /retrieve.sh 
+```
+
